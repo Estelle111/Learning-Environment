@@ -1,0 +1,139 @@
+body {
+    font-family: Consolas, 'Times New Roman', Times, serif;
+    
+}
+
+.container {
+    margin-top: 10px;
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+
+.G {
+    margin-top: -37%;
+    margin-left: 42%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    animation-duration: 3s;
+    animation-name: text;
+}
+
+.A {
+    margin-top: -37%;
+    margin-left: 45%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    animation-duration: 3s;
+    animation-name: text;
+    
+}
+
+.M {
+    margin-top: -37%;
+    margin-left: 48.3%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    animation-duration: 3s;
+    animation-name: text;
+}
+
+.E {
+    margin-top: -37%;
+    margin-left: 52%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    animation-duration: 3s;
+    animation-name: text;
+}
+
+.O {
+    margin-top: -37%;
+    margin-left: 42%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 26px;
+    animation-duration: 3s;
+    animation-name: text;
+}
+
+.V {
+    margin-top: -37%;
+    margin-left: 45%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 26px;
+    animation-duration: 3s;
+    animation-name: text;
+}
+
+.E2 {
+    margin-top: -37%;
+    margin-left: 48%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 26px;
+    animation-duration: 3s;
+    animation-name: text;
+}
+
+.R {
+    margin-top: -37%;
+    margin-left: 51%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 26px;
+    animation-duration: 3s;
+    animation-name: text;
+}
+
+.head {
+    margin-top: -33.5%;
+    margin-left: -3.5%;
+    position: absolute;
+    text-align: center;
+    animation-duration: 3s;
+    animation-name: text;
+}
+
+.linkdiv {
+    margin-top: -1.6%;
+    margin-left: 39.6%;
+    position: absolute;
+}
+
+.linktext {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+    transition: all .2s ease-out;
+    display: inline-block;
+}
+
+.linktext:hover {
+    transform: translate(0, 50%);
+}
+
+@keyframes text {
+    from {
+      opacity:0.0;
+    }
+   
+    to {
+      opacity:1;
+    }
+
