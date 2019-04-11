@@ -1,7 +1,7 @@
 # Learning Environment
 
 ## Markdown to html
-After 8 days of training
+**After 8 days of training**
 * **Description**
   * Convert a markdown file into html 
 * **Tools**
@@ -9,7 +9,7 @@ After 8 days of training
   * html
   
 ## 404 page
-After 10 days of training
+**After 10 days of training**
 * **Description**
   * Create a 404 page with css
 * **Tools**
